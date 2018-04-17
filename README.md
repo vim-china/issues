@@ -10,4 +10,4 @@ Vim 中文社区旨在为 Vim 用户提供一个完善的中文交流平台
 - [实用插件教程](https://github.com/vim-china/plugins-tutorial)：收录一些实用插件的配置及使用教材。
 - [Vim 中文社区事务讨论](https://github.com/vim-china/issues)：主要用于讨论社区内的事务，包括仓库项目计划等等。
 - [Vim patch 归类](https://github.com/vim-china/vim-patch-index)：将 Vim 补丁根据其功能进行归类，方便插件开发者快速定位所需 Vim 版本。
-- [国内用户及插件](https://github.com/vim-china/awesome-vimers)：国内比较有影响力的 Vim 用户及其插件作品。
+- [国内用户及插件清单](https://github.com/vim-china/awesome-vimers)：国内比较有影响力的 Vim 用户及其插件作品。
