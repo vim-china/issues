@@ -2,17 +2,11 @@
 
 讨论及分享 Vim 使用相关技巧，分享 Vim 学习教材
 
-## Vim 聊天频道
+## 技术讨论
 
-- [Telegram 聊天室](https://t.me/VimHub)
-- IRC: #vim-china (freenode.net)
-- [Gitter 聊天室](https://gitter.im/vim-china/Lobby)
+关于本社区的讨论以邮件组形式为主，如需参与，发送邮件给 vim-china@googlegroups.com 即可订阅。
 
 ## 相关链接
-
-- [Vim 中文社区事务讨论](https://github.com/vim-china/issues)
-
-主要用于讨论社区内的事务，包括仓库项目计划等等。
 
 - [Vim 学习指南](https://github.com/vim-china/hello-vim)：Vim 的入门和进阶其实并没有想象的那么复杂，理清楚知识框架，会让学习效力倍增。
 - [vimrc 读书会](https://github.com/vim-china/reading-vimrc)：大家一起品一品别人的 vim 配置，从中找到一些可以值得学习的知识点。
