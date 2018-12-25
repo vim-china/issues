@@ -4,7 +4,7 @@
 
 ## 技术讨论
 
-关于本社区的讨论以邮件组形式为主，如需参与，发送邮件给 vim-china@googlegroups.com 即可订阅。
+关于本社区的讨论以邮件组形式为主，如需参与，发送邮件给 vim-cn@googlegroups.com 即可订阅。
 
 ## 相关链接
 
