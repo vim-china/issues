@@ -4,7 +4,7 @@
 
 ## 技术讨论
 
-关于本社区的讨论以邮件组形式为主，如需参与，发送邮件给 vim-cn@googlegroups.com 即可订阅。
+关于本社区的讨论以邮件组形式为主，如需参与，发送邮件给 vim-china@googlegroups.com 即可订阅。
 
 ## 相关链接
 
@@ -15,6 +15,14 @@
 - [Vim patch 归类](https://github.com/vim-china/vim-patch-index)：将 Vim 补丁根据其功能进行归类，方便插件开发者快速定位所需 Vim 版本。
 - [国内用户及插件清单](https://github.com/vim-china/awesome-vimers)：国内比较有影响力的 Vim 用户及其插件作品。
 
+
+## 同步聊天室
+
+- [IRC](https://webchat.freenode.net/?channels=vim-china)
+- [Gitter](https://gitter.im/vim-china/Lobby)
+- [Telegram](https://t.me/joinchat/EazwP0N3KINBeWdGcFACNw)
+
+同时，欢迎加入中文QQ交流群：601694335
 
 ## 友情链接
 
