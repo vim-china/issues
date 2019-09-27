@@ -4,7 +4,7 @@
 
 ## 技术讨论
 
-关于本社区的讨论以邮件组形式为主，如需参与，发送邮件给 vim-china@googlegroups.com 即可订阅。
+关于本社区的讨论以邮件组形式 `vim-china@googlegroups.com`
 
 ## 相关链接
 
@@ -18,11 +18,11 @@
 
 ## 同步聊天室
 
+网页右下角为同步聊天室，主要同步包括以下频道消息：
+
 - [IRC](https://webchat.freenode.net/?channels=vim-china)
 - [Gitter](https://gitter.im/vim-china/Lobby)
 - [Telegram](https://t.me/joinchat/EazwP0N3KINBeWdGcFACNw)
-
-同时，欢迎加入中文QQ交流群：601694335
 
 ## 友情链接
 
