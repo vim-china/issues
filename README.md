@@ -24,7 +24,7 @@
 - [Gitter](https://gitter.im/vim-china/Lobby)
 - [Telegram](https://t.me/joinchat/EazwP0N3KINBeWdGcFACNw)
 
-习惯传统聊天工具的，也可以加入 QQ 群：601694335
+习惯传统聊天工具的，也可以加入 QQ 群：[57839222](https://jq.qq.com/?_wv=1027&k=5ct4Y78)
 
 ## 友情链接
 
