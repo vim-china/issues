@@ -22,9 +22,7 @@
 
 - [IRC](https://webchat.freenode.net/?channels=vim-china)
 - [Gitter](https://gitter.im/vim-china/Lobby)
-- [telegram](https://t.me/joinchat/EazwP0N3KINfUyiZQt-UQg)
-
-习惯传统聊天工具的，也可以加入 QQ 群：[57839222](https://jq.qq.com/?_wv=1027&k=5ct4Y78)
+- [telegram](https://t.me/VimHub)
 
 ## 友情链接
 
