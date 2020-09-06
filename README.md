@@ -20,9 +20,9 @@
 
 网页右下角为同步聊天室，主要同步包括以下频道消息：
 
-- [IRC](https://webchat.freenode.net/?channels=vim-china)
-- [Gitter](https://gitter.im/vim-china/Lobby)
-- [telegram](https://t.me/VimHub)
+- [IRC](https://webchat.freenode.net/?channels=spacevim-cn)
+- [Gitter](https://gitter.im/SpaceVim/cn/)
+- [telegram](https://t.me/joinchat/EazwP0TNHJ_Btbo2frsw9Q)
 
 ## 友情链接
 
