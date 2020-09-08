@@ -14,7 +14,7 @@
 - [实用插件教程](https://github.com/vim-china/plugins-tutorial)：Vim 常用插件的配置技巧
 - [Vim patch 归类](https://github.com/vim-china/vim-patch-index)：Vim 补丁分类
 - [国内用户及插件清单](https://github.com/vim-china/awesome-vimers)
-- [Vim 相关项目](./projects/)
+- [Vim 相关项目](./projects)
 
 
 ## 同步聊天室
